@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   20 year history of developing business solutions. Our latest projects involve 
   the creation of responsive Web Apps, hosted on Microsoft Azure and utilizing Microservices
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://darkly.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: darkly
 github_username:  darklypure
 
